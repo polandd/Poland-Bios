@@ -1,15 +1,19 @@
 {
-  "name": "academic-pages",
+  "name": "polandd-academic-profile",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "private": true,
+  "description": "Academic and professional profile website for David J Poland.",
+  "author": "David J Poland",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/polandd/polandd.github.io.git"
   },
   "keywords": [
     "jekyll",
-    "theme",
-    "minimal"
+    "academic-profile",
+    "artificial-intelligence",
+    "machine-learning",
+    "predictive-maintenance"
   ],
   "contributors": [
     "Michael Rose",
@@ -17,9 +21,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
+    "url": "https://github.com/polandd/polandd.github.io/issues"
   },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://polandd.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
