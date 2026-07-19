@@ -6,8 +6,8 @@ title_separator          : "-"
 name                     : &name "David J Poland"
 description              : &description "Artificial intelligence and machine-learning researcher specialising in industrial predictive maintenance and machine prognostics."
 url                      : "https://polandd.github.io"
-baseurl                  : ""
-repository               : "polandd/polandd.github.io"
+baseurl                  : "/Poland-Bios"
+repository               : "polandd/Poland-Bios"
 
 # Site Author
 author:
